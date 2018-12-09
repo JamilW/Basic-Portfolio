@@ -82,6 +82,7 @@ a {
     padding-right: 15px;
     padding-left: 15px;
     text-decoration: none;
+    cursor: pointer;
 }
 .a1 {
     background-color: transparent;
@@ -234,13 +235,13 @@ a {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 #Contact   {
-    border-bottom: solid #cccccc;
+    border-bottom: solid #cccccc 2px;
     padding-bottom: 20px;
     margin-right: 27px;
     margin-left: 1px;
 }
 #Portfolio   {
-    border-bottom: solid #cccccc;
+    border-bottom: solid #cccccc 2px;
     padding-bottom: 20px;
     margin-right: 25px;
     margin-left: 5px;
@@ -301,4 +302,5 @@ textarea    {
 #p  {
     margin-top: -20px;
     margin-right: 20px;
+    float: none;
 }
